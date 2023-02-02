@@ -1,4 +1,8 @@
-Flask==1.1.2
-Flask-SocketIO==4.3.2
-Flask-Cors==3.0.9
-chess==1.9.4
+Flask
+Flask-SocketIO
+Flask-Cors
+chess
+os
+uuid
+time
+json
